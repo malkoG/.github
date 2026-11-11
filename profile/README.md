@@ -1,1 +1,1 @@
-Renamed to @jaeyeol-yee
+Renamed to [@jaeyeol-yee](https://github.com/jaeyeol-yee)
